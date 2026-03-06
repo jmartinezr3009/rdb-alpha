@@ -133,3 +133,5 @@ __vsc_prompt_cmd_original
 team_id SERIAL PRIMARY KEY,
 __vsc_prompt_cmd_original
 chmod +x insert_data.sh queries.sh
+git rebase upstream/main
+git rebase upstream/main
